@@ -1,0 +1,69 @@
+body {
+    background-color: red;
+}
+
+#navbar {
+    font-family: 'Yesteryear', cursive;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+#toggleText {
+    color: #f400a1;
+    font-size: 30px;
+    font-family: 'Yesteryear', cursive;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#navtext {
+    font-size: 40px;
+    margin-left: 20px;
+    color: #f400a1;
+}
+
+#navimg {
+    margin-left: 20px;
+}
+
+.name {
+    width: 65%;
+    display: flex;
+    justify-content: left;
+}
+
+#button {
+    background-color: #f400a1;
+    margin-top: 20px;
+}
+
+.progress-bar-animated {
+    background-color: deeppink;
+}
+
+.progress {
+    margin: 0px 10px 0px 10px;
+}
+
+.text {
+    color: #f400a1;
+    font-family: 'Yesteryear', cursive;
+    font-size: 50px;
+
+}
+
+.desc {
+    color: #f400a1;
+    font-family: 'Yesteryear', cursive;
+    font-size: 50px;
+}
+
+#rel-img {
+    width: 80%;
+}
