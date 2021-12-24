@@ -67,3 +67,9 @@ body {
 #rel-img {
     width: 80%;
 }
+
+footer {
+    font-family: 'Indie Flower', cursive;
+    color: #f400a1;
+    margin-top: 20px;
+  }
